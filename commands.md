@@ -12,3 +12,5 @@ terminal cd 到项目所在目录运行
 
 if (!require("devtools")) install.packages("devtools")
    devtools::install_github("rstudio/d3heatmap")
+
+pip freeze>requirements.txt
