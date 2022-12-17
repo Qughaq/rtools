@@ -1,6 +1,6 @@
 import os
 
-project_path = r'/Users/jrahmat/rprojects/voomDDA'
+project_path = r'/Users/jrahmat/rprojects'
 
 if __name__ == '__main__':
     count = 0
